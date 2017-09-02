@@ -11,9 +11,9 @@ This extension allows you to:
 
 * check if phone is rooted
 
-<img src=http://kvno2akhnoor.org/images/new.gif>* execute Shell commands
+* execute Shell commands
 
-<img src=http://kvno2akhnoor.org/images/new.gif>* display executed commands' output
+* display executed commands' output
 
 This extension unlocks a variety of new things and it can prove to be very useful for the community.
 
@@ -28,7 +28,7 @@ This extension unlocks a variety of new things and it can prove to be very usefu
 
 **Download Extension**
 
-<img src=http://kvno2akhnoor.org/images/new.gif>* Version 3: <a class="attachment" href="/uploads/default/original/2X/2/2b4d3d70d77f47eb933c5e9678b57598e1c2bc53.aix">RootChecker_v3.aix</a> (6.8 KB) (Changed the package name)
+* Version 3: <a class="attachment" href="/uploads/default/original/2X/2/2b4d3d70d77f47eb933c5e9678b57598e1c2bc53.aix">RootChecker_v3.aix</a> (6.8 KB) (Changed the package name)
 
 * Version 2: <a class="attachment" href="/files/RootChecker.aix">RootChecker_v2.aix</a> (6.8 KB)
 
