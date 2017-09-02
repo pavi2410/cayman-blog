@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Billing
+layout: page
 description: Freely monetize your apps
 comments: true
 ---
