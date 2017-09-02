@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: "/about.html"
+permalink: "/about"
 layout: page
 tagline: A few more words about myself
 navigation: true
