@@ -1,7 +1,8 @@
 ---
-title: Billing extension
+title: AI Extensions
+permalink: "/aix"
 layout: page
-description: Freely monetize your apps
+tagline: List of my extensions for App Inventor
 navigation: true
 ---
 
