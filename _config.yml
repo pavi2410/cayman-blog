@@ -1,6 +1,6 @@
 ---
 title: Pavitra's World
-timezone: UTC
+timezone: Asia/Kolkata
 collections:
   posts:
     title: Posts
@@ -10,7 +10,7 @@ collections:
     output: true
 description: Explore my whole new world
 show_downloads: false
-baseurl: ''
+baseurl: 
 url: https://pavi2410.tk
 disqus_shortname: pavi-tk
 google_analytics: UA-92654291-1
@@ -19,7 +19,7 @@ cayman-blog:
 theme: 
 author: Pavitra Golchha
 image: "/thumbnail-jumbo.png"
-twitter:
-  username: PavitraGolchha
-facebook:
-  authors: pavi2410
+social:
+  twitter: PavitraGolchha
+  gplus: "+PavitraGolchha"
+  fb: pavi2410
