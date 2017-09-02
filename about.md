@@ -1,8 +1,8 @@
 ---
-layout: page
 title: About
+permalink: "/about.html"
+layout: page
 tagline: A few more words about myself
-permalink: /about.html
 ---
 
 Hi, I'm Pavitra, living in India. I'm 17 years old and I study in Class 12. I like to explore and make new things.

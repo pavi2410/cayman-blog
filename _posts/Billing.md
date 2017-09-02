@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Billing extension
+layout: post
 description: Freely monetize your apps
 categories: aix
 comments: true

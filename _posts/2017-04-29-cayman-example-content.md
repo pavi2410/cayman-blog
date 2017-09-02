@@ -1,6 +1,7 @@
 ---
+title: Example content
+date: 2017-04-29 00:00:00 Z
 layout: post
-title: "Example content"
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

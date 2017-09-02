@@ -1,11 +1,13 @@
 ---
+title: Post content styles
+date: 2017-04-20 00:00:00 Z
+categories:
+- junk
 layout: post
-title: "Post content styles"
-tagline: "This post demonstrates post content styles"
-categories: junk
-image: /thumbnail-mobile.png
-author: "Bart Simpson"
-meta: "Springfield"
+tagline: This post demonstrates post content styles
+image: "/thumbnail-mobile.png"
+author: Bart Simpson
+meta: Springfield
 comments: true
 ---
 

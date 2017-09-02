@@ -1,28 +1,25 @@
+---
 title: Pavitra's World
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 description: Explore my whole new world
 show_downloads: false
-
-baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://pavi2410.tk" # change this to the base hostname & protocol for your site
-
+baseurl: ''
+url: https://pavi2410.tk
 disqus_shortname: pavi-tk
 google_analytics: UA-92654291-1
-# cayman-blog date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 cayman-blog:
   date_format: "%b %d, %Y"
-
-theme: # leave it empty
-
-# social
-author: "Pavitra Golchha"
-image: /thumbnail-jumbo.png
+theme: 
+author: Pavitra Golchha
+image: "/thumbnail-jumbo.png"
 twitter:
   username: PavitraGolchha
-#  site:
 facebook:
-  #publisher: 1592372034171500
-  #profile_id: 1809805629
-  #app_id: 1798910940422432 # cayman-blog
   authors: pavi2410
-  #admins:

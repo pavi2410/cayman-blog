@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Contact
+layout: page
 ---
 
 To contact me, please send me an email at `pavitragolchha(at)gmail.com`
