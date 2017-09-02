@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Root Checker
+layout: page
 tagline: Check root access and run shell commands
 ---
+
 I'm excited to release my second extension: _**Root Checker**_
 
 This extension allows you to:
