@@ -7,5 +7,11 @@ layout: default
   <div>
     {{ content }}
   </div>
+  
+  {% if page.comments %}
+  {% if site.disqus_shortname %}
+    {% include disqus.html %}
+  {% endif %}
+  {% endif %}
 
 </article>
