@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Billing extension
+layout: page
 description: Freely monetize your apps
 navigation: true
 ---
