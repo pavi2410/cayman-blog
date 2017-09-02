@@ -1,7 +1,7 @@
 ---
 title: Billing
 layout: page
-description: Freely monetize your apps
+tagline: Freely monetize your apps
 comments: true
 ---
 
