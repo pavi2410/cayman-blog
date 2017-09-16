@@ -7,7 +7,7 @@ comments: true
 
 Hello, I am presenting you the extension for **_in-app purchases_**.
 
-> It is based on [Anjlab's library](https://github.com/anjlab/android-inapp-billing-v3) (version 1.0.39, latest)
+> It is based on [Anjlab's library](https://github.com/anjlab/android-inapp-billing-v3) (version 1.0.39)
 
 ----------
 
@@ -27,9 +27,39 @@ Hello, I am presenting you the extension for **_in-app purchases_**.
 
 ----------
 
-**Download Extension**:
+**ERROR CODES**
 
-<a class="attachment" href="/aix/files/Billing.aix">Billing.aix</a> (60.9 KB) (Version 7)
+Learn about the _error codes_ that you may receive using **ErrorOccurred** event block. I've made a list of errors so you know what the does that all mean. Meaning of each error code has been written against that error code.
+
+* 0 = BILLING_RESPONSE_RESULT_OK
+* 1 = BILLING_RESPONSE_RESULT_USER_CANCELED
+* 2 = BILLING_RESPONSE_RESULT_SERVICE_UNAVAILABLE
+* 3 = BILLING_RESPONSE_RESULT_BILLING_UNAVAILABLE
+* 4 = BILLING_RESPONSE_RESULT_ITEM_UNAVAILABLE
+* 5 = BILLING_RESPONSE_RESULT_DEVELOPER_ERROR
+* 6 = BILLING_RESPONSE_RESULT_ERROR
+* 7 = BILLING_RESPONSE_RESULT_ITEM_ALREADY_OWNED
+* 8 = BILLING_RESPONSE_RESULT_ITEM_NOT_OWNED
+
+Some more error codes:
+
+* 100 = BILLING_ERROR_FAILED_LOAD_PURCHASES
+* 101 = BILLING_ERROR_FAILED_TO_INITIALIZE_PURCHASE
+* 102 = BILLING_ERROR_INVALID_SIGNATURE
+* 103 = BILLING_ERROR_LOST_CONTEXT
+* 104 = BILLING_ERROR_INVALID_MERCHANT_ID
+* 105 = BILLING_ERROR_INVALID_DEVELOPER_PAYLOAD
+* 110 = BILLING_ERROR_OTHER_ERROR
+* 111 = BILLING_ERROR_CONSUME_FAILED
+* 112 = BILLING_ERROR_SKUDETAILS_FAILED
+* 113 = BILLING_ERROR_BIND_PLAY_STORE_FAILED
+
+_Found at https://goo.gl/q2QnR5
 
 ----------
-**Test** Extension using this [app](https://play.google.com/apps/testing/com.thunkable.android.pavitragolchha.Billing).
+
+**Download Extension**:
+[![Download](https://img.shields.io/badge/DOWNLOAD-v7-brightgreen.svg)](https://github.com/pavi2410/pavi2410.github.io/aix/files/Billing.aix)
+
+----------
+**Test** this extension using this [app](https://play.google.com/apps/testing/com.thunkable.android.pavitragolchha.Billing).
