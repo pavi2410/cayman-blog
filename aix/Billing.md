@@ -59,7 +59,7 @@ _Found at https://goo.gl/q2QnR5_
 ----------
 
 **Download Extension**:
-[![Download](https://img.shields.io/badge/DOWNLOAD-v7-brightgreen.svg)](https://github.com/pavi2410/pavi2410.github.io/blob/master/aix/files/Billing.aix)
+[![Download](https://img.shields.io/badge/DOWNLOAD-v7-brightgreen.svg)](https://github.com/pavi2410/pavi2410.github.io/blob/master/aix/files/Billing.aix?raw=true)
 
 ----------
 **Test** this extension using this [app](https://play.google.com/apps/testing/com.thunkable.android.pavitragolchha.Billing).
