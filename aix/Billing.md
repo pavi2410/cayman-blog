@@ -54,12 +54,12 @@ Some more error codes:
 * 112 = BILLING_ERROR_SKUDETAILS_FAILED
 * 113 = BILLING_ERROR_BIND_PLAY_STORE_FAILED
 
-_Found at https://goo.gl/q2QnR5
+_Found at https://goo.gl/q2QnR5_
 
 ----------
 
 **Download Extension**:
-[![Download](https://img.shields.io/badge/DOWNLOAD-v7-brightgreen.svg)](https://github.com/pavi2410/pavi2410.github.io/aix/files/Billing.aix)
+[![Download](https://img.shields.io/badge/DOWNLOAD-v7-brightgreen.svg)](https://github.com/pavi2410/pavi2410.github.io/blob/master/aix/files/Billing.aix)
 
 ----------
 **Test** this extension using this [app](https://play.google.com/apps/testing/com.thunkable.android.pavitragolchha.Billing).
